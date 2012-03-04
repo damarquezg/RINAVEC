@@ -1,0 +1,18 @@
+RINAVEC
+
+Reconnaissance d'Itinéraire et Navigation en convoi de Véhicules Communicants
+
+Programme Systèmes Interactifs & Robotique de l'ANR
+
+Ce projet vise à développer et évaluer des fonctions avancées de Perception 
+et de Modélisation de l'Environnement, pour des véhicules évoluant en convoi 
+sur un itinéraire inconnu a priori, en milieu ouvert (périurbain ou naturel).
+
+Le contexte de l'application concerne la navigation de convois humanitaires 
+dans des zones de conflit ou accidentées : pour diverses raisons (mines, autres
+véhicules ou personnes), la progression de tels convois est très difficile et  
+dangereuse.
+
+Le but sera d'évaluer les progrès récents en Perception pour la navigation de 
+véhicules communicants, dans ce contexte très exigeant.
+
